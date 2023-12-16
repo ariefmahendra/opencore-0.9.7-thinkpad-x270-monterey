@@ -1,5 +1,7 @@
 This is repo contains efi file for lenovo thinkpad x270 with spec:
 
+## Spec
+
 💻 Laptop: 
 - Merk: Lenovo Thinkpad x270
 - Processor: i5-6300U (Skylake-U)
@@ -13,5 +15,15 @@ This is repo contains efi file for lenovo thinkpad x270 with spec:
 - Bootloader: Opencore 0.9.7
 - OS Version: MacOS monterey 12.7.2
 - Installer offline: olarilla
+
+## Customization
+
+Custom command for fix lagging when maximize and minimize window:
+
+`defaults write -g NSWindowResizeTime -float 0.001`
+ 
+To restore animation time you must use this command:
+
+`defaults delete -g NSWindowResizeTime`]
 
 Thanks ☕
