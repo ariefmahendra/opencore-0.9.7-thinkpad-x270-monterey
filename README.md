@@ -1,4 +1,4 @@
-This is repo contains efi file for lenovo thinkpad x270 with spec:
+This is repo contains efi file for Lenovo Thinkpad X270:
 
 ## Spec
 
@@ -24,6 +24,6 @@ Custom command for fix lagging when maximize and minimize window:
  
 To restore animation time you must use this command:
 
-`defaults delete -g NSWindowResizeTime`]
+`defaults delete -g NSWindowResizeTime`
 
 Thanks ☕
