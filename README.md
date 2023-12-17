@@ -1,6 +1,6 @@
 This is repo contains efi file for Lenovo Thinkpad X270:
 
-![picture home screen](images/../image/home-screen.png)
+![picture home screen](images/../image/Home-Screen.png)
 
 # Spec
 
