@@ -59,10 +59,9 @@ To restore animation time you must use this command:
 - [x] Keyboard (incuding all fn Keys)
 - [x] Wi-Fi & Bluetooth (including Apple services)
 - [x] iMessage, FaceTime, App Store, iTunes Store (with valid smbios)
-- [x] DRM support (iTunes Movies, Apple TV+, Amazon Prime and Netflix, and others)
-- [x] Sleep / Wake (lid sleep and lid wake) (works for me you can try for yourself)
+- [x] Sleep / Wake (lid sleep and lid wake) 
 
 # What's not working ⚠️
-- [x] Everything looks perfect for now 
+- [x] DRM support (iTunes Movies, Apple TV+, Amazon Prime and Netflix, and others) but you can use DRM suported browser
 
 Thanks ☕
